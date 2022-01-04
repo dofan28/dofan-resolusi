@@ -1,0 +1,5 @@
+loop 
+switchcase
+kondisi
+struct
+array
